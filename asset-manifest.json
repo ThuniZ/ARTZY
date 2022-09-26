@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ARTZY/static/css/main.b7064fd6.css",
+    "main.js": "/ARTZY/static/js/main.55e0d1dd.js",
+    "static/media/bild.jpg": "/ARTZY/static/media/bild.0b5ccdb96d4525e21eef.jpg",
+    "static/media/Logo.svg": "/ARTZY/static/media/Logo.7f399a93141d8681d55f528a938a2c4c.svg",
+    "index.html": "/ARTZY/index.html",
+    "static/media/menu-Icon.svg": "/ARTZY/static/media/menu-Icon.d48c029c20ff184ecc65e377a5dfa220.svg",
+    "main.b7064fd6.css.map": "/ARTZY/static/css/main.b7064fd6.css.map",
+    "main.55e0d1dd.js.map": "/ARTZY/static/js/main.55e0d1dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7064fd6.css",
+    "static/js/main.55e0d1dd.js"
+  ]
+}
