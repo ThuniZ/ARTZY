@@ -19,6 +19,18 @@
     font-size: 48px;
 }
 
+.adminContainer input[type="text"] {
+    border: none;
+    border-bottom: 1px solid grey;
+    width: 250px;
+    height: 30px;
+    margin-top: 28px;
+    font-family: 'Amiri', 'Serif';
+  
+    font-size: 1.3em;
+
+}
+
 .wishlistWrapper {
     display: flex;
     flex-direction: row;

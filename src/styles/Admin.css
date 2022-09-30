@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Roboto:wght@100;400;700&display=swap");
+
+
+.adminContainer {
+    display:flex;
+    flex-direction: column;
+    align-content:center;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+
+.adminContainer h1 {
+    font-size: 48px;
+    margin-top: 40px;
+    font-weight: 400;
+    font-weight: 400;
+    line-height: 84px;
+    letter-spacing: 0em;
+ }
+
+ .adminContainer h2 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 63px;
+    letter-spacing: 0em;
+    
+ }
+
+ .adminContainer input[type="text"]{
+    width:480px;
+    align-content: center;
+    justify-content:center;
+    text-align:left;
+    margin-top: 40px;
+}
+
+.listHeader {
+    display:flex;
+    flex-direction: row;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.searchBar button i {
+position:absolute;
+top:375px;
+right: 400px;
+font-size: 20px;
+
+
+}
+
+
+#filterButton {
+    background-color: #3E3E3E;
+    width: 146px;
+    height: 50px;
+    margin-top:43px;
+
+ 
+}
+
+#filterButton h2 {
+    color:#DEDEDE;
+    font-family: 'Amiri', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 63px;
+    letter-spacing: 0em;
+    text-align: center;
+}

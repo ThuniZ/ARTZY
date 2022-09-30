@@ -16,6 +16,7 @@ import ArtistproductPage from './pages/ArtistproductPage';
 import Searchresult from './pages/Searchresult';
 import ArtistsingleItem from './Components/ArtistsingleItem';
 import Productpage from './pages/Productpage';
+import Admin from './pages/Admin';
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
           <Route path="/signup" element={<Signup />} />
           <Route path="/category/:id" element={<BrowsingBy />} />
           <Route path="/underconstruction" element={<UnderConstruction />} />
+          <Route path="/admin" element={<Admin />} />
           <Route path="*" element={<Pagenotfound />} />
           <Route path="/query:id" element={<Searchresult />} />
         </Routes>
