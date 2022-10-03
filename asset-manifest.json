@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ARTZY/static/css/main.971b8b95.css",
-    "main.js": "/ARTZY/static/js/main.53b39365.js",
+    "main.css": "/ARTZY/static/css/main.eb1f7ed0.css",
+    "main.js": "/ARTZY/static/js/main.9a955361.js",
     "static/media/banner.png": "/ARTZY/static/media/banner.79a393cd76f0a61c6adc.png",
     "static/media/pipilotti.jpg": "/ARTZY/static/media/pipilotti.f12e84e91b75e4829b66.jpg",
     "static/media/success.png": "/ARTZY/static/media/success.a7106fd26dcc01d2f79e.png",
     "static/media/Logo.svg": "/ARTZY/static/media/Logo.7f399a93141d8681d55f528a938a2c4c.svg",
     "index.html": "/ARTZY/index.html",
-    "main.971b8b95.css.map": "/ARTZY/static/css/main.971b8b95.css.map",
-    "main.53b39365.js.map": "/ARTZY/static/js/main.53b39365.js.map"
+    "main.eb1f7ed0.css.map": "/ARTZY/static/css/main.eb1f7ed0.css.map",
+    "main.9a955361.js.map": "/ARTZY/static/js/main.9a955361.js.map"
   },
   "entrypoints": [
-    "static/css/main.971b8b95.css",
-    "static/js/main.53b39365.js"
+    "static/css/main.eb1f7ed0.css",
+    "static/js/main.9a955361.js"
   ]
 }
