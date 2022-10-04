@@ -3,16 +3,16 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth, createUserWithEmailAndPassword, sendEmailVerification, signOut, signInWithEmailAndPassword, sendPasswordResetEmail} from "firebase/auth";
 import { getStorage } from 'firebase/storage'
 
-// //DB1
-// const firebaseConfig = {
-//   apiKey: "AIzaSyDADvlLhOibfEVyk7TRSl-LuWfxDv4KIio",
-//   authDomain: "artzy-f21d3.firebaseapp.com",
-//   projectId: "artzy-f21d3",
-//   storageBucket: "artzy-f21d3.appspot.com",
-//   messagingSenderId: "216536498272",
-//   appId: "1:216536498272:web:59e0d2bafefca015d24305",
-//   measurementId: "G-LEBF2M1R1B"
-// };
+//DB1
+const firebaseConfig = {
+  apiKey: "AIzaSyDADvlLhOibfEVyk7TRSl-LuWfxDv4KIio",
+  authDomain: "artzy-f21d3.firebaseapp.com",
+  projectId: "artzy-f21d3",
+  storageBucket: "artzy-f21d3.appspot.com",
+  messagingSenderId: "216536498272",
+  appId: "1:216536498272:web:59e0d2bafefca015d24305",
+  measurementId: "G-LEBF2M1R1B"
+};
 
 // // DB2
 // const firebaseConfig = {
@@ -34,15 +34,15 @@ import { getStorage } from 'firebase/storage'
 //   appId: "1:979179349911:web:6bbad13cde9922037006d2"
 // };
 
-// DB PRODUCTION DO NOT USE UNLESS NECESSARY
-const firebaseConfig = {
-  apiKey: "AIzaSyBYpDyo595Iwfjo7f5BAxCcjEbOWVtepLM",
-  authDomain: "artzyprod-ef753.firebaseapp.com",
-  projectId: "artzyprod-ef753",
-  storageBucket: "artzyprod-ef753.appspot.com",
-  messagingSenderId: "789222589511",
-  appId: "1:789222589511:web:db9b9d8f58966f9ce91d62"
-};
+// // DB PRODUCTION DO NOT USE UNLESS NECESSARY
+// const firebaseConfig = {
+//   apiKey: "AIzaSyBYpDyo595Iwfjo7f5BAxCcjEbOWVtepLM",
+//   authDomain: "artzyprod-ef753.firebaseapp.com",
+//   projectId: "artzyprod-ef753",
+//   storageBucket: "artzyprod-ef753.appspot.com",
+//   messagingSenderId: "789222589511",
+//   appId: "1:789222589511:web:db9b9d8f58966f9ce91d62"
+// };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
